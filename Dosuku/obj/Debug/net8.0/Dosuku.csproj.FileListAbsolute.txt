@@ -1,0 +1,16 @@
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\bin\Debug\net8.0\Dosuku.exe
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\bin\Debug\net8.0\Dosuku.deps.json
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\bin\Debug\net8.0\Dosuku.runtimeconfig.json
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\bin\Debug\net8.0\Dosuku.dll
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\bin\Debug\net8.0\Dosuku.pdb
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.AssemblyInfoInputs.cache
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.AssemblyInfo.cs
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.csproj.CoreCompileInputs.cache
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.sourcelink.json
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.dll
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\refint\Dosuku.dll
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.pdb
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\Dosuku.genruntimeconfig.cache
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\obj\Debug\net8.0\ref\Dosuku.dll
+C:\Users\yvsimeonova19\RiderProjects\2425-12-asd-jobscheduling-YVSimeonova19\Dosuku\Dosuku\bin\Debug\net8.0\Boards\SudokuBoard.json
